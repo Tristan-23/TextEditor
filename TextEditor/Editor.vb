@@ -6,7 +6,7 @@ Public Class Editor
 
 
 #Region "VARIABLES"
-    Public Shared VERSION As String = "1.0.3"
+    Public Shared VERSION As String = "1.0.4"
 #End Region
 
 
