@@ -16,7 +16,7 @@
 <a>Geplante Funktionen</a>
 
 - [ ] Automatisches speichern<br>
-- [ ] Sprachauswahl<br>
+- [x] Sprachauswahl<br>
 
 
 

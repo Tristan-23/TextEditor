@@ -46,9 +46,9 @@ Public Class ThemeLoader
         Editor.TextBox.ForeColor = darkMenuTextCol
         Editor.Menu.BackColor = darkMenuCol
         Editor.Content.BackColor = darkLightCol
-        Editor.DateiMenuBtn.ForeColor = darkMenuTextCol
-        Editor.DateiMenuBtn.BackColor = darkMenuCol
-        Editor.BearbeitenMenuBtn.ForeColor = darkMenuTextCol
+        Editor.Datei.ForeColor = darkMenuTextCol
+        Editor.Datei.BackColor = darkMenuCol
+        Editor.Bearbeiten.ForeColor = darkMenuTextCol
 
         For Each menuItem As ToolStripMenuItem In Editor.Menu.Items
             menuItem.ForeColor = Color.White
@@ -70,9 +70,9 @@ Public Class ThemeLoader
         Editor.Menu.BackColor = lightMenuCol
         Editor.TextBox.BackColor = lightDarkMenuCol
         Editor.TextBox.ForeColor = lightMenuFileCol
-        Editor.DateiMenuBtn.ForeColor = lightMenuTextCol
-        Editor.DateiMenuBtn.BackColor = lightMenuCol
-        Editor.BearbeitenMenuBtn.ForeColor = lightMenuFileCol
+        Editor.Datei.ForeColor = lightMenuTextCol
+        Editor.Datei.BackColor = lightMenuCol
+        Editor.Bearbeiten.ForeColor = lightMenuFileCol
 
         For Each menuItem As ToolStripMenuItem In Editor.Menu.Items
             menuItem.ForeColor = Color.Black
