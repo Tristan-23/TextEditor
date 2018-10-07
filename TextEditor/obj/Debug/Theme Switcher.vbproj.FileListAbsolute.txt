@@ -1,0 +1,12 @@
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\bin\Debug\Theme Switcher.exe.config
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\bin\Debug\Theme Switcher.exe
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\bin\Debug\Theme Switcher.pdb
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\bin\Debug\Theme Switcher.xml
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\obj\Debug\Theme Switcher.vbprojAssemblyReference.cache
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\obj\Debug\Theme_Switcher.Form1.resources
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\obj\Debug\Theme_Switcher.Resources.resources
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\obj\Debug\Theme Switcher.vbproj.GenerateResource.cache
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\obj\Debug\Theme Switcher.vbproj.CoreCompileInputs.cache
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\obj\Debug\Theme Switcher.exe
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\obj\Debug\Theme Switcher.xml
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\obj\Debug\Theme Switcher.pdb

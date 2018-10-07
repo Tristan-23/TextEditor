@@ -1,0 +1,24 @@
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\bin\Release\TextEditor.exe.config
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\bin\Release\TextEditor.exe
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\bin\Release\TextEditor.pdb
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\bin\Release\TextEditor.xml
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\obj\Release\TextEditor.vbprojAssemblyReference.cache
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\obj\Release\TextEditor.Editor.resources
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\obj\Release\TextEditor.Resources.resources
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\obj\Release\TextEditor.vbproj.GenerateResource.cache
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\obj\Release\TextEditor.vbproj.CoreCompileInputs.cache
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\obj\Release\TextEditor.exe
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\obj\Release\TextEditor.xml
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\obj\Release\TextEditor.pdb
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\bin\Release\TextEditor.exe.config
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\bin\Release\TextEditor.exe
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\bin\Release\TextEditor.pdb
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\bin\Release\TextEditor.xml
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\obj\Release\TextEditor.vbprojAssemblyReference.cache
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\obj\Release\TextEditor.Editor.resources
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\obj\Release\TextEditor.Resources.resources
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\obj\Release\TextEditor.vbproj.GenerateResource.cache
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\obj\Release\TextEditor.vbproj.CoreCompileInputs.cache
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\obj\Release\TextEditor.exe
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\obj\Release\TextEditor.xml
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\obj\Release\TextEditor.pdb

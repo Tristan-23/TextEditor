@@ -1,0 +1,38 @@
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\bin\Debug\TextEditor.exe.config
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\bin\Debug\TextEditor.exe
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\bin\Debug\TextEditor.pdb
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\bin\Debug\TextEditor.xml
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\obj\Debug\TextEditor.Form1.resources
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\obj\Debug\TextEditor.Resources.resources
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\obj\Debug\TextEditor.vbproj.GenerateResource.cache
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\obj\Debug\TextEditor.vbproj.CoreCompileInputs.cache
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\obj\Debug\TextEditor.exe
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\obj\Debug\TextEditor.xml
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\obj\Debug\TextEditor.pdb
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\obj\Debug\TextEditor.vbprojAssemblyReference.cache
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\Theme Switcher\obj\Debug\TextEditor.vbproj.CopyComplete
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\bin\Debug\TextEditor.exe.config
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\bin\Debug\TextEditor.exe
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\bin\Debug\TextEditor.pdb
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\bin\Debug\TextEditor.xml
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\obj\Debug\TextEditor.vbprojAssemblyReference.cache
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\obj\Debug\TextEditor.Editor.resources
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\obj\Debug\TextEditor.Resources.resources
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\obj\Debug\TextEditor.vbproj.GenerateResource.cache
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\obj\Debug\TextEditor.vbproj.CoreCompileInputs.cache
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\obj\Debug\TextEditor.exe
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\obj\Debug\TextEditor.xml
+D:\Programmieren\Visual Studio\Projects\Theme Switcher\TextEditor\obj\Debug\TextEditor.pdb
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.xml
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.vbprojAssemblyReference.cache
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.Editor.resources
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.Resources.resources
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.vbproj.GenerateResource.cache
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.vbproj.CoreCompileInputs.cache
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.xml
+D:\Programmieren\Visual Studio\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
